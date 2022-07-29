@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 1rem;
+  border-radius: 1rem;
+  border: none;
+  margin: 0.5rem;
+  cursor: pointer;
+}
